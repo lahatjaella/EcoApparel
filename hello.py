@@ -6,3 +6,5 @@ name = input("Enter your name:")
 
 # Welcome user with their own name
 print("Hello " + name)
+
+print("Test")
