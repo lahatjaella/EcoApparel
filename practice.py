@@ -1,3 +1,5 @@
+# git add .
+# git commit -m ""
 # printing to terminal
 print("Hello, World!")
 
