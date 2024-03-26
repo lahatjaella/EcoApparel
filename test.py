@@ -1,3 +1,7 @@
+# this is how i push and pull:
+# git add . 
+#git commit -m "message"
+#git push
 # printing to terminal 
 print("Hello World")
 
@@ -12,3 +16,5 @@ name = input("Enter your name:\n")
 print("Welcome " + name )
 
 print("Hola")
+
+print("Test")
